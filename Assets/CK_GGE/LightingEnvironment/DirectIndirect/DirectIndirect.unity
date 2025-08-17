@@ -638,7 +638,7 @@ TextMesh:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 882689501}
-  m_Text: "\uB77C\uD305 =\r\n \uC9C1\uC811\uAD11 \uB514\uD4E8\uC988 + \uC9C1\uC811\uAD11
+  m_Text: "\uB77C\uC774\uD305 =\r\n \uC9C1\uC811\uAD11 \uB514\uD4E8\uC988 + \uC9C1\uC811\uAD11
     \uC2A4\uD398\uD058\uB7EC +\r\n \uAC04\uC811\uAD11 \uB514\uD4E8\uC988 + \uAC04\uC811\uAD11
     \uC2A4\uD398\uD058\uB7EC\r\n\r\nEnvironment Lighting SkyBox/Color(Black) = \uAC04\uC811\uAD11
     \uB514\uD4E8\uC988 \uC2DC\uAC01\uD654\r\nEnvironment Lighting Skybox/Color =
